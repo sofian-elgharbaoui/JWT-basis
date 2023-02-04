@@ -1,0 +1,25 @@
+{
+  "name": "jwt-basis",
+  "version": "1.0.0",
+  "description": "learn how to make an autorizition to my next app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofian-elgharbaoui/JWT-basis.git"
+  },
+  "author": "soufiane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofian-elgharbaoui/JWT-basis/issues"
+  },
+  "homepage": "https://github.com/sofian-elgharbaoui/JWT-basis#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.9.0"
+  }
+}
